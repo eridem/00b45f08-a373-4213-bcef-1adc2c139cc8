@@ -273,3 +273,14 @@
 /go-updater-[0-9]+.+\.amazonaws.com/
 /.*brave-[a-z0-9]+-proxy.*/
 ||d1vbftvkf37ah3.cloudfront.net^
+||sony.net
+||ndmdhs.com
+||netflix.com
+||gstatic.com
+||google.com
+||sentry.com
+||aptoide.com
+||fcix.net
+||agdsn.de
+||liu.se
+||qualtrics.com
